@@ -10,7 +10,6 @@
  For more details, please find the below the required links,
  
  Google Drive link for program file (Notebook):
- https://drive.google.com/file/d/1fJhQuJyPeZ6uXD9f1m5J-kiEKd53u8fk/view?usp=share_link
+
  
  Google Drive link for document containing detailed explanation with Screenshots:
- https://docs.google.com/document/d/17N168rspdXC5Vv9V4SbA9cNPsg1dRw6p/edit?usp=share_link&ouid=103401773923467274603&rtpof=true&sd=true
